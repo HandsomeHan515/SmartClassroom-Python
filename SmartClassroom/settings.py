@@ -25,7 +25,7 @@ SECRET_KEY = '_gap$8=%6evglr&1lx_&+b#n+vgsp5mimz!8z$=tfcy)ba80-@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
